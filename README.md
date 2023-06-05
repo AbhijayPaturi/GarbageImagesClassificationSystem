@@ -12,7 +12,7 @@ However, there is always room for improvement. I've already left a few thoughts 
 Please reach out if you would like to learn more or help out!
 
 ## Getting Started 
-Simply download the Jupyter Notebook. Data has been attached too! 
+Simply download the Jupyter Notebook and data. Originally, this project was completed via AWS SageMaker and S3. However, I transfered it to  a local Jupyter Notebook. If you'd like to see the Notebook on SageMaker, please reach out!
 
 Reach out if you have any suggestions to improve my methodology/code. I'm grateful for any learning opportunity!
 
