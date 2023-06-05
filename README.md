@@ -1,5 +1,5 @@
 # GarbageImagesClassificationSystem
-A garbage image classification model to segregate waste using transfer learning + Keras
+A garbage image classification model to segregate waste using transfer learning + Keras.
 
 ## Description
 
