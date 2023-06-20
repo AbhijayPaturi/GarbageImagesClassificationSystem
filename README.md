@@ -5,7 +5,7 @@ A garbage image classification model to segregate waste using transfer learning 
 
 Inspiration: https://iopscience.iop.org/article/10.1088/1755-1315/775/1/012010<br>
 
-This project, a garbage image classification program, was fueled by my deep love for the environment and my desire to enhance my deep learning and Tensorflow skills. Drawing inspiration from the devastating impact of both children and adults dispoing of waste in the incorrect bins, I dedicated myself to training a model that could accurately identify and categorize different types of garbage items through images. Through countless hours of refining the model's architecture and learning/reading about transfer learning and Keras, I achieved a high accuracy level (~95%).
+This project, a garbage image classification program, was fueled by my deep love for the environment and my desire to enhance my deep learning and Tensorflow skills. Drawing inspiration from the devastating impact of both children and adults dispoing of waste in the incorrect bins, I dedicated myself to training a model that could accurately identify and categorize different types of garbage items through images. Through countless hours of refining the model's architecture and learning/reading about transfer learning and Keras, I achieved a high accuracy level (~94%).
 
 Data from Kaggle.
 
